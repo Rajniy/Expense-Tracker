@@ -6,16 +6,16 @@ This repository contains two Python-based expense tracking applications:
 
 A basic Tkinter GUI app for quick expense tracking.
 
-### 💼 Advanced Expense Tracker Pro (`advancexpensetracker.py`)
+### 💼 Advanced Expense Tracker (`advancexpensetracker.py`)
 
-A feature-rich PyQt5 application with AI assistance, persistent database storage, currency conversion, visual charts, and export capabilities.
+A feature-rich PyQt5 application with persistent database storage, currency conversion, visual charts, and export capabilities.
 
 ---
 
 ## 📑 Table of Contents
 
 - [Simple Expense Tracker](#-simple-expense-tracker)
-- [Advanced Expense Tracker Pro](#-advanced-expense-tracker-pro)
+- [Advanced Expense Tracker](#-advanced-expense-tracker)
 - [Installation](#️-installation)
 - [Usage Instructions](#-usage-instructions)
 - [Features Overview](#-features-overview)

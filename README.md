@@ -67,7 +67,7 @@ A comprehensive expense management system with professional tools and automation
 
 ### 📁 Step 1: Download the Project
 
-#### OR download ZIP from GitHub and extract it.
+#### Download ZIP from GitHub and extract it.
 
 ### 🧾 Step 2: Using Simple Expense Tracker
 
